@@ -5,3 +5,4 @@ const linearSearch = (valueToFind, arrayToSearchThrough) =>{
     }
 }
 
+module.exports = linearSearch
